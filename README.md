@@ -19,23 +19,21 @@ Features / Highlights
 
 • Walkthrough of Key Visuals
 
-Patient Timeline Cards: Displays Admit Date, Discharge Date, Follow-up Date, and Total Bill Amount.
+-Patient Timeline Cards: Displays Admit Date, Discharge Date, Follow-up Date, and Total Bill Amount.
 
-Bed Occupancy Chart: Shows utilization of Private, General, and ICU beds.
+-Bed Occupancy Chart: Shows utilization of Private, General, and ICU beds.
 
-Doctor Feedback Volume: Donut chart displaying feedback count per doctor, indicating service quality.
+-Doctor Feedback Volume: Donut chart displaying feedback count per doctor, indicating service quality.
 
-Diagnosis-Wise Patient Count: Horizontal bar chart representing the number of patients per diagnosis (e.g., Viral Infection, Flu, Malaria).
+-Diagnosis-Wise Patient Count: Horizontal bar chart representing the number of patients per diagnosis (e.g., Viral Infection, Flu, Malaria).
 
-Billing vs Health Insurance Amount: Line chart comparing billed amounts against health insurance claims for services like CT Scan, MRI, X-Ray.
+-Billing vs Health Insurance Amount: Line chart comparing billed amounts against health insurance claims for services like CT Scan, MRI, X-Ray.
 
 Business Impact & Insights:
-Identified highest diagnosis count in Viral Infections, guiding resource allocation.
 
-Private bed usage is significantly higher, showing patient preference or income demographics.
+-Identified highest diagnosis count in Viral Infections, guiding resource allocation.
+-Private bed usage is significantly higher, showing patient preference or income demographics.
+-Health insurance coverage is less than billed amount, prompting review of insurance tie-ups or patient financial planning.
+-Uniform doctor feedback suggests consistent quality of care across medical staff.
 
-Health insurance coverage is less than billed amount, prompting review of insurance tie-ups or patient financial planning.
-
-Uniform doctor feedback suggests consistent quality of care across medical staff.
-
-6. Screenshots / Demos :https://github.com/sandeepmandal07/Hospital-Dashboard/blob/main/SnapShot%20of%20dashboard.png
+Screenshots / Demos :https://github.com/sandeepmandal07/Hospital-Dashboard/blob/main/SnapShot%20of%20dashboard.png
